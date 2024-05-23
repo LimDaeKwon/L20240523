@@ -1,10 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
-
-
-
 void InsertAfter(int*& Numbers, int& Size, int Value)
 {
 	
@@ -53,12 +49,3 @@ int main()
 
 	return 0;
 }
-
-// InsertAfter(Numbers, Size, 20);
-
-/*for (int i = 0; i < 5; i++)
-{
-	Dptr[i] = i;
-}
-
-delete[] Dptr;*/
